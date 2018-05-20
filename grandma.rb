@@ -19,7 +19,7 @@ def speak_to_grandma (phrase)
     "HUH?! SPEAK UP, SONNY!"
   end
   if phrase == "I LOVE YOU GRANDMA!"
-    "I LOVE YOU TOO PUMPKIN"
+    "I LOVE YOU TOO PUMPKIN!"
   
   end
 end
